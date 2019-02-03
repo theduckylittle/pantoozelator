@@ -2,6 +2,8 @@
 
 Code, libraries, and documentation for the Loppet's paint-marking robot.
 
+![Image of robot](./robot-2019.jpg)
+
 ## Basic operating theory
 
 The hall effect sensor counts the number of passing spokes (10) in order to
