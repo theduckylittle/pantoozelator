@@ -2,7 +2,7 @@
 
 Code, libraries, and documentation for the Loppet's paint-marking robot.
 
-![Image of robot](./robot-2019.jpg)
+![Image of robot](https://github.com/theduckylittle/pantoozelator/blob/master/robot-2019.jpg?raw=true)
 
 ## Basic operating theory
 
