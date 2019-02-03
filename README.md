@@ -20,9 +20,9 @@ will switch from "red" markings to using "blue" marking.
  * Blue: "Blue pump" ground
  * Wrapped wires: hall effect sensor
 
-  * Small blue - ground
-  * Black - Power
-  * Tan - Signal
+   * Small blue - ground
+   * Black - Power
+   * Tan - Signal
 
 ## Replacement part numbers
 
